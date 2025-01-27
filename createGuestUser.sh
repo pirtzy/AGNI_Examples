@@ -17,9 +17,9 @@ from datetime import datetime
 
 
 RPC_TIMEOUT = 30  # in seconds
-TOKENKEY = 'KEY-xxxxxxx1'
-TOKENVALUE = '5cbe28xxxxxxxxxxxxxxxxxxxxxxxxxx'
-ORG_ID = 'E01934dea-cxxxxxxxxxxxxxxxxxxxxxxxxxx'
+TOKENKEY = 'KEY-xxxxxxxx'
+TOKENVALUE = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+ORG_ID = 'xxxxxxxx-cxxxxxxxxxxxxxxxxxxxxxxxxxx'
 SERVER = 'https://xxxxxxxxxx.agni.arista.io/'
 
 HEADERS = {
